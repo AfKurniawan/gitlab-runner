@@ -1,0 +1,15 @@
+name: k8s-gitlab-shell-runner
+version: 0.1.2
+description: GitLab Shell Runner (Docker Compose)
+keywords:
+- git
+- ci
+- deploy
+sources:
+- https://hub.docker.com/r/gitlab/gitlab-runner/
+- https://docs.gitlab.com/runner/
+maintainers:
+- name: GitLab Inc.
+  email: support@gitlab.com
+- name: DJ Mountney
+  email: dj@gitlab.com
